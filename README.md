@@ -3,7 +3,7 @@ bash script for auto deploying to server when git push
 
 ![flow](https://i.postimg.cc/RhY3fjc2/flow.jpg)
 
-## Setup on Produciton Server : 
+## Setup on Production Server : 
 
 1. Clone this repo to your production server run ``` git clone https://github.com/robyfirnandoyusuf/Setup-Auto-Deployer.git```
 2. Run ``` chmod +x setup.sh ``` to set executable
