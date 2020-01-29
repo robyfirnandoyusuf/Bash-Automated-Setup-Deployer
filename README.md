@@ -8,7 +8,7 @@ bash script for auto deploying to server when git push
 1. Clone this repo to your production server run ``` git clone https://github.com/robyfirnandoyusuf/Setup-Auto-Deployer.git```
 2. Run ``` chmod +x setup.sh ``` to set executable
 3. Run ``` ./setup.sh /path/target/deploy/ projectName```
-*/path/target/deploy/ you can replace with /var/www/html,/srv/www,/home/$user/public_html or etc that you poined dir to web server already
+*/path/target/deploy/ you can replace with /var/www/html,/srv/www,/home/$user/public_html or etc
 
 ## Setup on Local Computer : 
 
