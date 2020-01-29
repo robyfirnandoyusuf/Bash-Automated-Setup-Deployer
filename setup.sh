@@ -1,4 +1,5 @@
 #!/bin/bash
+#author : GreyCat - ExploreOurBrain - cR0ot
 
 DIR_TMP="/srv/tmp/"
 DIR_WWW=$1
