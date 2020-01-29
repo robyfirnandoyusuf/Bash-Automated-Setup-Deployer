@@ -1,4 +1,4 @@
-# Setup-Auto-Deployer
+# Bash Automated Setup Deployer
 bash script for auto deploying to server when git push
 
 ![flow](https://i.postimg.cc/RhY3fjc2/flow.jpg)
